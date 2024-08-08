@@ -6,7 +6,10 @@ function App() {
     return (
         <div
             className="App"
-            style={{ backgroundImage: "url(/background1.webp)" }}
+            style={{
+                backgroundImage:
+                    "url(https://raw.githubusercontent.com/himrd95/birthday-wish/main/public/background1.webp)",
+            }}
         >
             <Home />
         </div>
